@@ -1,0 +1,18 @@
+{
+  "current_session": "你好！👋 我是软件开发领域的技术专家。有..._2026-04-29 07-27-27",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好"
+    },
+    {
+      "role": "assistant",
+      "content": "**思考过程：**\nHere's a thinking process:\n\n1.  **Analyze User Input:**\n   - User says: \"你好\" (Hello)\n   - Language: Chinese\n   - Context: I am a software development technical expert.\n   - Rules to follow:\n     1. Match user's language (Chinese).\n     2. No images.\n     3. Only answer the question, no extra content.\n     4. If explanation needed, give a short, simple example.\n     5. Use emojis if needed.\n   - The input is just a greeting, not a technical question.\n\n2.  **Determine Response Strategy:**\n   - Acknowledge the greeting politely.\n   - State my role/expertise briefly (software development expert).\n   - Invite the user to ask a technical question.\n   - Keep it concise, follow all rules (no images, match language, only answer/respond to the prompt, use emojis if appropriate).\n   - Since it's just a greeting, I don't need a technical example, but I'll keep it brief and ready for their question.\n\n3.  **Draft Response (Mental Refinement):**\n   你好！👋 我是软件开发领域的技术专家。有任何关于编程语言、框架、架构设计、数据库或开发流程的问题，随时告诉我，我会为你详细解答！💻✨\n\n4.  **Check Against Rules:**\n   - Match language? Yes, Chinese.\n   - No images? Yes.\n   - Only answer the question? It's a greeting, so a polite acknowledgment + prompt for question is appropriate and doesn't violate \"only answer the question\" (it's the standard response to a greeting). I'll keep it strictly focused.\n   - Short example if needed? Not needed for a greeting.\n   - Emojis? Used 👋 💻 ✨.\n   - All rules met.\n\n   I will output the refined response.✅\n\n\n---\n\n**回复：**\n你好！👋 我是软件开发领域的技术专家。有任何关于编程语言、框架、系统架构、数据库或工程实践的问题，随时告诉我，我会为你精准解答！💻✨"
+    }
+  ],
+  "model": "qwen3.6-plus",
+  "max_tokens": 4096,
+  "temperature": 0.7,
+  "domin": "软件开发",
+  "deep_thinking": true
+}

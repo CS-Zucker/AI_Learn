@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  ai-partner:
+    build: .
+    image: chhhdev/ai-partner:latest
+    container_name: ai-partner
+    ports:
+      - "8501:8501"
+    environment:
+      - DASHSCOPE_API_KEY=${DASHSCOPE_API_KEY}
+    volumes:
+      - ./sessions:/app/sessions
+      - ./resource:/app/resource
+    restart: unless-stopped

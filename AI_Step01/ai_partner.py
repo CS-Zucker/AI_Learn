@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 st.title("AI技术文档助手")
-st.logo(r"resource\img\ai_logo2.jpeg")
+st.logo("resource/img/ai_logo2.jpeg")
 
 
 if 'messages' not in st.session_state:
